@@ -139,3 +139,16 @@ This project provided hands-on experience with:
 - Debugging Terraform and AWS errors
 - Understanding Terraform resource dependencies
 - Following Infrastructure-as-Code practices
+
+
+## Architecture
+
+![GitHub to AWS CI/CD Pipeline](screenshots/GitHub%20to%20AWS%20CI_CD%20Pipeline%20Infographic.png)
+
+## Pipeline screenshots
+
+![Jenkins Pipeline](screenshots/Screenshot%202026-10-12%20124116.png)
+
+![Terraform Pipeline](screenshots/Screenshot%202026-10-12%20124131.png)
+
+![Jenkins Configuration](screenshots/Screenshot%202026-10-12%20124232.png)
